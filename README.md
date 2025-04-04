@@ -39,7 +39,7 @@ O **Blackjack Game** é um jogo de Blackjack simples desenvolvido com **JavaScri
 
 1. **Clone o repositório**:
    - Abra o terminal e execute o comando:
-   ```bash
+   ```
    git clone https://github.com/seu-usuario/blackjack-game.git
    ```
    
