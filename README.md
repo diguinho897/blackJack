@@ -65,6 +65,9 @@ O **Blackjack Game** é um jogo de Blackjack simples desenvolvido com **JavaScri
 4. Envie para o repositório remoto (`git push origin feature/feature-name`).
 5. Abra um Pull Request.
 
+![Demo](GitPrintBJ.png)
+
 ## Licença
+
 
 Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
